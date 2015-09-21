@@ -14,6 +14,7 @@
 		D0EEB2F41BB05A84009CB521 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0EEB2F21BB05A84009CB521 /* LaunchScreen.storyboard */; };
 		D0EEB2FF1BB05A84009CB521 /* retro_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0EEB2FE1BB05A84009CB521 /* retro_calculatorTests.swift */; };
 		D0EEB30A1BB05A84009CB521 /* retro_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0EEB3091BB05A84009CB521 /* retro_calculatorUITests.swift */; };
+		D0EEB3181BB06E5D009CB521 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0EEB3171BB06E5D009CB521 /* Minecraft.ttf */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D0EEB3051BB05A84009CB521 /* retro-calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "retro-calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0EEB3091BB05A84009CB521 /* retro_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = retro_calculatorUITests.swift; sourceTree = "<group>"; };
 		D0EEB30B1BB05A84009CB521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0EEB3171BB06E5D009CB521 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D0EEB2F01BB05A84009CB521 /* Assets.xcassets */,
 				D0EEB2F21BB05A84009CB521 /* LaunchScreen.storyboard */,
 				D0EEB2F51BB05A84009CB521 /* Info.plist */,
+				D0EEB3171BB06E5D009CB521 /* Minecraft.ttf */,
 			);
 			path = "retro-calculator";
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			files = (
 				D0EEB2F41BB05A84009CB521 /* LaunchScreen.storyboard in Resources */,
 				D0EEB2F11BB05A84009CB521 /* Assets.xcassets in Resources */,
+				D0EEB3181BB06E5D009CB521 /* Minecraft.ttf in Resources */,
 				D0EEB2EF1BB05A84009CB521 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
